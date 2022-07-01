@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "winner": {
+      "commandName": "Project",
+      "commandLineArgs": "--in abc.txt --out xyz.txt"
+    }
+  }
+}
